@@ -1,0 +1,46 @@
+body {
+	font-family: "AR Darling";
+	font-size: 20px;
+	color: #FFFFFF;
+	background-color: #cccccc;
+	margin: 0px;
+}
+h1{text-align:center;}
+	
+.first {	
+	
+	width=800px;
+	height=200px;
+}
+.second{width=1500px;
+	font-size:30px;
+	color:#996699;
+	margin-top:0px;
+}
+
+h2{	text-align:left;
+	margin-left:200px}
+
+.third{ margin-top:10px;
+	margin-left:200px;
+	width=500px}
+	
+.fourth{ margin-top:-120px;
+	margin-left:950px;
+	width=800px}
+
+h3{
+	font-size:30px;
+	color:#FFFFFF;
+	text-align:left;
+	}
+h4{	margin-top:-170;
+	font-size:30px;
+	color:white;
+	text-align: left;
+	}
+h5{
+	font-size:20px;
+	color:white;
+	text-align:left;
+	}
